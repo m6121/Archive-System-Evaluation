@@ -4,3 +4,6 @@
 [submodule "mycore/mir"]
 	path = mycore/mir
 	url = https://github.com/MyCoRe-Org/mir.git
+[submodule "archivematica/archivematica"]
+	path = archivematica/archivematica
+	url = https://github.com/artefactual/archivematica.git
