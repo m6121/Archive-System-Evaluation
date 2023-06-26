@@ -1,0 +1,6 @@
+[submodule "dspace/dspace-angular"]
+	path = dspace/dspace-angular
+	url = https://github.com/DSpace/dspace-angular.git
+[submodule "mycore/mir"]
+	path = mycore/mir
+	url = https://github.com/MyCoRe-Org/mir.git
